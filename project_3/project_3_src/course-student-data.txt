@@ -1,0 +1,5 @@
+Ahmet,Mehmet,Kamil,Cemil,Dursun
+CE242,CE241,CE308,CE405,EE330
+CE242:Ahmet,Mehmet
+CE241:Mehmet,Kamil,Ahmet
+CE308:Ahmet,Mehmet,Dursun
